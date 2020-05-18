@@ -1,0 +1,82 @@
+.code-block {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+}
+
+.code-container {
+    flex: 1;
+    min-width: 0;
+    overflow-y: hidden;
+    width: 100%;
+    text-align: left;
+}
+
+.syntaxhighlighter {
+    background-color: white !important;
+}
+
+.syntaxhighlighter {
+    width: 100% !important;
+    margin: 1em 0 1em 0 !important;
+    position: relative !important;
+    overflow: auto !important;
+    font-size: 1em !important;
+    margin-left: 5px;
+}
+
+.syntaxhighlighter table {
+    width: 100% !important;
+}
+
+.syntaxhighlighter table td.code {
+    width: 100% !important;
+}
+
+.syntaxhighlighter table td.code .container {
+    position: relative !important;
+}
+
+.syntaxhighlighter .container {
+    padding: 5px !important;
+}
+
+.syntaxhighlighter.nogutter td.code .line {
+    padding-left: 0em !important;
+}
+
+.syntaxhighlighter .keyword {
+    font-weight: bold !important;
+}
+
+.syntaxhighlighter .keyword {
+    color: #006699 !important;
+}
+
+.syntaxhighlighter .plain,
+.syntaxhighlighter .plain a {
+    color: black !important;
+}
+
+.vl {
+    border-left: 6px solid green;
+}
+
+.row .params {
+    margin-left: 15px;
+}
+
+.row .params input {
+    width: 200px;
+    margin-left: 15px;
+}
+
+.row .params button {
+    margin-left: 45px;
+}
+
+.code-block .code-snippet {
+    white-space: pre-wrap;
+    font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    margin-left: 1rem;
+}

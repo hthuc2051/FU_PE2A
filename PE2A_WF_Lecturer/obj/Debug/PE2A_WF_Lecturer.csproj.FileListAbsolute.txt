@@ -1,0 +1,16 @@
+E:\CN9\PE2A_WF_Lecturer\PE2A_WF_LECTURER\bin\Debug\PE2A_WF_Lecturer.exe.config
+E:\CN9\PE2A_WF_Lecturer\PE2A_WF_LECTURER\bin\Debug\PE2A_WF_Lecturer.exe
+E:\CN9\PE2A_WF_Lecturer\PE2A_WF_LECTURER\bin\Debug\PE2A_WF_Lecturer.pdb
+E:\CN9\PE2A_WF_Lecturer\PE2A_WF_LECTURER\bin\Debug\Newtonsoft.Json.dll
+E:\CN9\PE2A_WF_Lecturer\PE2A_WF_LECTURER\bin\Debug\SharpCompress.dll
+E:\CN9\PE2A_WF_Lecturer\PE2A_WF_LECTURER\bin\Debug\Newtonsoft.Json.xml
+E:\CN9\PE2A_WF_Lecturer\PE2A_WF_LECTURER\obj\Debug\PE2A_WF_Lecturer.LecturerEnroll.resources
+E:\CN9\PE2A_WF_Lecturer\PE2A_WF_LECTURER\obj\Debug\PE2A_WF_Lecturer.ImportScriptForm.resources
+E:\CN9\PE2A_WF_Lecturer\PE2A_WF_LECTURER\obj\Debug\PE2A_WF_Lecturer.LecturerForm.resources
+E:\CN9\PE2A_WF_Lecturer\PE2A_WF_LECTURER\obj\Debug\PE2A_WF_Lecturer.PointDetailMsgBox.resources
+E:\CN9\PE2A_WF_Lecturer\PE2A_WF_LECTURER\obj\Debug\PE2A_WF_Lecturer.Properties.Resources.resources
+E:\CN9\PE2A_WF_Lecturer\PE2A_WF_LECTURER\obj\Debug\PE2A_WF_Lecturer.csproj.GenerateResource.cache
+E:\CN9\PE2A_WF_Lecturer\PE2A_WF_LECTURER\obj\Debug\PE2A_WF_Lecturer.csproj.CopyComplete
+E:\CN9\PE2A_WF_Lecturer\PE2A_WF_LECTURER\obj\Debug\PE2A_WF_Lecturer.exe
+E:\CN9\PE2A_WF_Lecturer\PE2A_WF_LECTURER\obj\Debug\PE2A_WF_Lecturer.pdb
+E:\CN9\PE2A_WF_Lecturer\PE2A_WF_LECTURER\obj\Debug\PE2A_WF_Lecturer.csprojAssemblyReference.cache

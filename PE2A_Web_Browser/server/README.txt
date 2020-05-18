@@ -1,0 +1,1 @@
+Open cmd and run npx json-server -p 4000 --watch db.json command to run dummy json server

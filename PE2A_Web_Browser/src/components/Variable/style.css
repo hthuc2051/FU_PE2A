@@ -1,0 +1,36 @@
+.variable-item .custom-select{
+    max-width: 100px;
+}
+.variable-item .form-control {
+    max-width: 200px;
+}
+
+.variable-item {
+    box-sizing: border-box;
+    position: relative;
+    display: inline-block;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    outline: 0;
+    background: #fff;
+    color: #35092c;
+    margin: 5px;
+    padding: 7px 5px 0px 5px;
+    font-size: 18px;
+    line-height: 19px;
+    vertical-align: top;
+    text-align: left;
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+    min-width: 350px;
+}
+
+.action-tab .btn {
+    margin: 5px;
+    padding: .2rem;
+}
+.input-group .form-control, .custom-select, .btn{
+    font-size: .8rem;
+}
